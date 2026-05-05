@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/erstrategies/erstrategies.r-universe.dev
 	branch = HEAD
+[submodule "erstools"]
+	path = erstools
+	url = https://github.com/ERStrategies/erstools
