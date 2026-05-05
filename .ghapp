@@ -1,0 +1,10 @@
+{
+  "id": 129761346,
+  "created_at": "2026-05-05T17:25:32.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["erstools"]
+}
